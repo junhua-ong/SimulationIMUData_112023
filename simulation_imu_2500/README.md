@@ -1,1 +1,1 @@
-Simulation data, 1000 samples per class.
+Simulation data, 2500 samples per class.
